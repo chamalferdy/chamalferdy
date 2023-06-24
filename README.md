@@ -16,10 +16,9 @@
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chamal-fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamal-fernando" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/chamalferdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chamalferdy" height="30" width="40" /></a>
 <a href="https://medium.com/@chamal404fido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chamal404fido" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC7TIaxjwSkypegifWQAlTWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cognify" height="30" width="40" /></a>
 
 </p>
 
