@@ -5,7 +5,7 @@
 <div>
 - 🌱 I’m currently learning **Web Development, Project Management.**
 
-- 📝 I write articles on [https://medium.com/@chamal404fido](https://medium.com/@chamal404fido)
+<!--- 📝 I write articles on [https://medium.com/@chamal404fido](https://medium.com/@chamal404fido)-->
 
 - 📫 How to reach me : **chamal404fido@gmail.com**
 </div>
