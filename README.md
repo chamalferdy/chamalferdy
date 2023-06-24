@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/chamal-fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamal-fernando" height="30" width="40" /></a>
 <a href="https://kaggle.com/chamalferdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chamalferdy" height="30" width="40" /></a>
 <a href="https://medium.com/@chamal404fido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chamal404fido" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cognify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cognify" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/CoGnify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cognify" height="30" width="40" /></a>
 <a href="https://discord.gg/chamal_fernando_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chamal_fernando_1" height="30" width="40" /></a>
 </p>
 
